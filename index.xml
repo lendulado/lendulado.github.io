@@ -6,10 +6,19 @@
     <description>Recent content on La casa por el tejado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-es</language>
-    <lastBuildDate>Fri, 22 Sep 2017 22:58:21 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 22 Sep 2017 23:09:31 +0200</lastBuildDate>
     
 	<atom:link href="https://lendulado.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prime</title>
+      <link>https://lendulado.github.io/articles/prime/</link>
+      <pubDate>Fri, 22 Sep 2017 23:09:31 +0200</pubDate>
+      
+      <guid>https://lendulado.github.io/articles/prime/</guid>
+      <description>Un artículo Evidentemente estoy empezando la casa por el tejado</description>
+    </item>
     
     <item>
       <title>Acerca de...</title>

@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://lendulado.github.io/articles/prime/</loc>
+    <lastmod>2017-09-22T23:09:31+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://lendulado.github.io/about/</loc>
     <lastmod>2017-09-22T22:58:21+02:00</lastmod>
   </url>
@@ -24,13 +29,19 @@
   </url>
   
   <url>
+    <loc>https://lendulado.github.io/articles/</loc>
+    <lastmod>2017-09-22T23:09:31+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://lendulado.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://lendulado.github.io/</loc>
-    <lastmod>2017-09-22T22:58:21+02:00</lastmod>
+    <lastmod>2017-09-22T23:09:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
