@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Pruebas con Hugo</title>
+    <link>https://lendulado.github.io/</link>
+    <description>Recent content on Pruebas con Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>es-es</language>
     <lastBuildDate>Fri, 22 Sep 2017 19:30:12 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lendulado.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Segundo</title>
-      <link>http://example.org/posts/segundo/</link>
+      <link>https://lendulado.github.io/posts/segundo/</link>
       <pubDate>Fri, 22 Sep 2017 19:30:12 +0200</pubDate>
       
-      <guid>http://example.org/posts/segundo/</guid>
+      <guid>https://lendulado.github.io/posts/segundo/</guid>
       <description>Definitivamente esto es muy dificil</description>
     </item>
     
     <item>
       <title>Primero</title>
-      <link>http://example.org/posts/primero/</link>
+      <link>https://lendulado.github.io/posts/primero/</link>
       <pubDate>Fri, 22 Sep 2017 19:14:47 +0200</pubDate>
       
-      <guid>http://example.org/posts/primero/</guid>
+      <guid>https://lendulado.github.io/posts/primero/</guid>
       <description>De pruebas con Github pages y Hugo</description>
     </item>
     
